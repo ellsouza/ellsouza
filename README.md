@@ -1,6 +1,6 @@
 ## Ellen Souza
 
-Graduanda em Letras e estudante de desenvolvimento de software.
+Graduanda em desenvolvimento de software.
 Experiência com desenvolvimento web, automação e versionamento de código.
 
 ## Tecnologias
