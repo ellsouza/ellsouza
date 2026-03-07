@@ -21,18 +21,7 @@
 
 ---
 
-## Contatos
-
-<div>
-  <a href="mailto:ellensouza007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/ellen-souza-a266372b8/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-# Ellen Souza
+## Ellen Souza
 
 Graduanda em Letras e estudante de desenvolvimento de software.
 Experiência com desenvolvimento web, automação e versionamento de código.
