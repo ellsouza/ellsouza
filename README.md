@@ -12,15 +12,6 @@
 
 ---
 
-## Estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ellsouza&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellsouza&layout=compact&theme=dracula"/>
-</p>
-
----
-
 ## Ellen Souza
 
 Graduanda em Letras e estudante de desenvolvimento de software.
@@ -40,10 +31,10 @@ Experiência com desenvolvimento web, automação e versionamento de código.
 
 ## Projetos em destaque
 
-* Sistema Web com HTML, CSS e JavaScript
-* API simples com Node.js
-* Automações em Python
-* Projetos acadêmicos e experimentais
+- Sistema Web com HTML, CSS e JavaScript
+- API simples com Node.js
+- Automações em Python
+- Projetos acadêmicos e experimentais
 
 Os projetos completos podem ser encontrados nos repositórios fixados do perfil.
 
