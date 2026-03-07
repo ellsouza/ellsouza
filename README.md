@@ -3,8 +3,6 @@
 Graduanda em Letras e estudante de desenvolvimento de software.
 Experiência com desenvolvimento web, automação e versionamento de código.
 
----
-
 ## Tecnologias
 
 <p align="left">
