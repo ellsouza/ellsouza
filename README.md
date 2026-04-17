@@ -1,56 +1,55 @@
-# Ellen Souza de Almeida
+# Ellen Souza
+
+Desenvolvedora focada em soluções web, automação de processos e design de informação. Especialista em integrar lógica de software com comunicação institucional e design editorial.
+
+## Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" title="GitHub"/>
+</p>
+
+## Projetos em Destaque
+
+* **Sistemas Web:** Desenvolvimento de interfaces responsivas e dinâmicas utilizando stack nativa.
+* **APIs & Back-end:** Estruturação de arquiteturas escaláveis e integração de sistemas em Node.js.
+* **Automação:** Implementação de scripts para otimização de fluxos e análise de dados em Python.
+* **Design de Informação:** Elaboração de projetos editoriais e institucionais com foco em clareza visual.
+
+---
+
+Atividade e Performance
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ellsouza&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E7D32&icon_color=2E7D32&bg_color=0D1117&layout=compact" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E7D32&center=true&vCenter=true&width=500&lines=DEVELOPER_IN_PROGRESS;LETRAS_UFMG_+_ADS_UNINOVE;DESIGN_AND_DIGITAL_CONTENT;INIT_EXPLORATION..." alt="Typing SVG" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ellsouza&theme=tokyonight&color=2E7D32&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellsouza&layout=compact&theme=tokyonight&hide_border=true&title_color=2E7D32&bg_color=0D1117&hide_title=true" width="100%" />
+</p>
+
+---
+
+## Contato
+
+<p align="left">
+  <a href="mailto:ellensouza007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ellen-souza-a266372b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
-
-## 01_SOBRE_MIM
-
-Graduanda em Desenvolvimento de Software com foco na intersecção entre comunicação humana e sistemas digitais. Atualmente, atuo na Secretaria de Pós-Graduação em Neurociências (UFMG), gerenciando fluxos administrativos e presença digital.
-
-* **DOMÍNIOS:** Desenvolvimento Web, Design Institucional, Automação.
-* **SKILLS:** Git/Versionamento, Arquitetura de Conteúdo, Lógica de Programação.
-* **LOCAL:** Belo Horizonte, MG.
-
----
-
-## 02_MODULOS_DE_EXPLORACAO
-*Selecione um diretório para visualizar os projetos:*
-
-| [ COMMAND: BACKEND ] | [ COMMAND: FRONTEND ] | [ COMMAND: SCRIPTS ] |
-| :--- | :--- | :--- |
-| > [Acessar APIs](https://github.com/ellsouza?tab=repositories&q=node) | > [Acessar Interfaces](https://github.com/ellsouza?tab=repositories&q=css) | > [Acessar Automações](https://github.com/ellsouza?tab=repositories&q=python) |
-| Lógica e Node.js | UI/UX e Estrutura | Python e Eficiência |
-
----
-
-## 03_TECNOLOGIAS
-
-`HTML5` • `CSS3` • `JavaScript` • `Node.js` • `Python` • `Git` • `GitHub`
-
----
-
-## 04_ESTATISTICAS
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ellsouza&theme=gh-dark&stroke=2E7D32&background=0D1117&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellsouza&layout=compact&theme=nord&color_title=2E7D32" width="45%" />
-</p>
-
----
-
-## 05_CONTATO
-
-[EMAIL](mailto:ellensouza007@gmail.com) | [LINKEDIN](https://www.linkedin.com/in/ellen-souza-a266372b8/)
-
----
-<p align="center">
-  <code>// end of file</code>
+  <code>Desenvolvimento de Software | Belo Horizonte, MG</code>
 </p>
